@@ -1,0 +1,15 @@
+
+
+
+Building the Basic CRUD App using Redux in React.js
+
+
+We will use REDUX Store (list,currentIndex)
+
+redux, react-REDUX(package)
+
+action -> obj represent an operation
+reducer -> based on action, define how to update current stored data
+store -> 
+
+component -> dispatch(action) -> reducer -> component
